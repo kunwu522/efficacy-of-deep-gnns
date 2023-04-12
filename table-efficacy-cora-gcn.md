@@ -1,4 +1,6 @@
-# Cora + GCN
+# Unlearning efficacy of CEU on deep GNN models. The unlearning efficacy is measured as the accuracy of the membership inference attack.
+
+## Cora + GCN
 
 | # of layers   |   # of edges  |    Original   |     R + N     |      CEU      |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
